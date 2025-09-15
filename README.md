@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C0FF&width=600&lines=Hi%2C+I'm+Murad;I'm+a+Full-stack+Developer;Cybersecurity+Enthusiast" alt="Typing SVG" />
 </p>
 
-## 👨‍💻 About Me  
+## About Me  
 I'm a passionate **Full Stack Developer** who enjoys building complete solutions — from frontend interfaces to backend servers.  
 I have worked on multiple projects where I focused on creating clean **UI designs**, building efficient **backend systems**, and implementing secure **authentication** mechanisms.  
 
