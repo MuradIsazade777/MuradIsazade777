@@ -30,7 +30,7 @@ When I'm not coding, I enjoy:
 ---
 
 <p align="left">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100" style="vertical-align: middle;">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50" style="vertical-align: middle;">
   <span style="font-size: 24px; font-weight: bold; margin-left: 10px; margin-top: -40px;"><b>MY SKILLS</b></span>
 </p>
 
