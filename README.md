@@ -62,7 +62,7 @@ When I'm not coding, I enjoy:
  <img src="https://github-readme-stats.vercel.app/api?username=MuradIsazade777&show_icons=true&theme=radical" width="700" />
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuradIsazade777&layout=compact&theme=github_dark&hide=none&langs_count=10" width="500" />
  [![GitHub Streak](https://streak-stats.demolab.com?user=MuradIsazade777&theme=dark&hide_border=true)](https://git.io/streak-stats)
-[![Trophies](https://github-profile-trophy.vercel.app/?username=MuradIsazade777&theme=darkhub&margin-w=15&margin-h=15&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+ [![Trophies](https://github-profile-trophy.vercel.app/?username=MuradIsazade777&theme=darkhub&margin-w=15&margin-h=15&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
 
 <p align="center">
