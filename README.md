@@ -54,9 +54,7 @@ When I'm not coding, I enjoy:
   <a href="https://github.com/MuradIsazade777"><img src="https://skillicons.dev/icons?i=github" /></a>
   <a href="mailto:muradisazde019@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://discord.gg/cJv9YK5M"><img src="https://skillicons.dev/icons?i=discord" /></a>
-  <a href="https://t.me/MuradIsazade"><img src="https://skillicons.dev/icons?i=telegram" /></a>
 </p>
-
 ---
 
 ##  GitHub Stats
