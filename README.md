@@ -45,7 +45,7 @@ When I'm not coding, I enjoy:
 | **Tools** | <p align="center"> ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VS Code](https://skillicons.dev/icons?i=vscode) ![Visual Studio](https://skillicons.dev/icons?i=visualstudio) ![Vercel](https://skillicons.dev/icons?i=vercel) ![Netlify](https://skillicons.dev/icons?i=netlify) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) ![PNPM](https://skillicons.dev/icons?i=pnpm) ![Linux](https://skillicons.dev/icons?i=linux) ![PyCharm](https://skillicons.dev/icons?i=pycharm) ![NPM](https://skillicons.dev/icons?i=npm) ![WebStorm](https://skillicons.dev/icons?i=webstorm) ![Figma](https://skillicons.dev/icons?i=figma) ![AWS](https://skillicons.dev/icons?i=aws) ![Docker](https://skillicons.dev/icons?i=docker)  ![Postman](https://skillicons.dev/icons?i=postman)  ![Bash](https://skillicons.dev/icons?i=bash) ![Shell](https://skillicons.dev/icons?i=powershell)  </p> |
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="2000">
----
+
 
 
 ### 🌐 Contact
@@ -55,7 +55,7 @@ When I'm not coding, I enjoy:
   <a href="mailto:muradisazde019@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://discord.gg/cJv9YK5M"><img src="https://skillicons.dev/icons?i=discord" /></a>
 </p>
----
+
 
 ##  GitHub Stats
 
