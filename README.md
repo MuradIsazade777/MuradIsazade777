@@ -46,13 +46,16 @@ When I'm not coding, I enjoy:
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="2000">
 
-### 🌐 Contact
-<p align="center">
-  <a href="https://twitter.com/Isazde_Murad"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-  <a href="https://github.com/MuradIsazade777"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="mailto:muradisazde019@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://discord.gg/cJv9YK5M"><img src="https://skillicons.dev/icons?i=discord" /></a>
-</p>
+## 📬 Contact
+
+Reach out or follow me on these platforms:
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Isazde_Murad)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MuradIsazade)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/cJv9YK5M)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muradisazde019@gmail.com)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/muradisazde)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuradIsazade777)
 
 ##  GitHub Stats
 
