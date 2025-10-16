@@ -46,8 +46,6 @@ When I'm not coding, I enjoy:
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="2000">
 
-
-
 ### 🌐 Contact
 <p align="center">
   <a href="https://twitter.com/Isazde_Murad"><img src="https://skillicons.dev/icons?i=twitter" /></a>
@@ -55,7 +53,6 @@ When I'm not coding, I enjoy:
   <a href="mailto:muradisazde019@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://discord.gg/cJv9YK5M"><img src="https://skillicons.dev/icons?i=discord" /></a>
 </p>
-
 
 ##  GitHub Stats
 
