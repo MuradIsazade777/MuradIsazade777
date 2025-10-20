@@ -56,6 +56,7 @@ Reach out or follow me on these platforms:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muradisazde019@gmail.com)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/muradisazde)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuradIsazade777)
+[![Monkeytype](https://img.shields.io/badge/Monkeytype-Speed%20Practice-FF69B4?style=for-the-badge)](https://monkeytype.com/account)
 
 ##  GitHub Stats
 
