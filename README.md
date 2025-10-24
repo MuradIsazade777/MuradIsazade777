@@ -46,6 +46,18 @@ When I'm not coding, I enjoy:
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="2000">
 
+
+## 🚀 Pinned Projects
+
+| Project | Description | Tech Stack | Demo |
+|--------|-------------|------------|------|
+| **VaultEdge** | Modular C# backend engine with JWT, JSON storage, and branded docs | C#, ASP.NET, JWT, JSON | [🔗 View](https://github.com/MuradIsazade777/VaultEdge) |
+| **NeoClock** | Animated clock app with SCSS responsiveness, dark mode, and branded UI | HTML, SCSS, JS, TS | [🔗 View](https://github.com/MuradIsazade777/NeoClock) |
+| **ChronoPulse** | Go backend system with terminal visualizer and JSON output | Go, JSON, CLI | [🔗 View](https://github.com/MuradIsazade777/ChronoPulse) |
+| **MiniAuth** | Lightweight auth engine with JWT, modular structure, and branded README | Node.js, Express, JWT | [🔗 View](https://github.com/MuradIsazade777/MiniAuth) |
+| **MiniPaste** | Secure pastebin-style backend with JSON storage and branded assets | Python, Flask, JSON | [🔗 View](https://github.com/MuradIsazade777/MiniPaste) |
+
+
 ## 📬 Contact
 
 Reach out or follow me on these platforms:
