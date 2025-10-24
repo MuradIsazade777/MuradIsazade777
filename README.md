@@ -49,13 +49,25 @@ When I'm not coding, I enjoy:
 
 ## 🚀 Pinned Projects
 
+> 🧬 *"Each repo is a pulse in the system. These are the engines behind the cyber."*
+
 | Project | Description | Tech Stack | Demo |
-|--------|-------------|------------|------|
-| **VaultEdge** | Modular C# backend engine with JWT, JSON storage, and branded docs | C#, ASP.NET, JWT, JSON | [🔗 View](https://github.com/MuradIsazade777/VaultEdge) |
-| **NeoClock** | Animated clock app with SCSS responsiveness, dark mode, and branded UI | HTML, SCSS, JS, TS | [🔗 View](https://github.com/MuradIsazade777/NeoClock) |
-| **ChronoPulse** | Go backend system with terminal visualizer and JSON output | Go, JSON, CLI | [🔗 View](https://github.com/MuradIsazade777/ChronoPulse) |
-| **MiniAuth** | Lightweight auth engine with JWT, modular structure, and branded README | Node.js, Express, JWT | [🔗 View](https://github.com/MuradIsazade777/MiniAuth) |
-| **MiniPaste** | Secure pastebin-style backend with JSON storage and branded assets | Python, Flask, JSON | [🔗 View](https://github.com/MuradIsazade777/MiniPaste) |
+|--------------------|------------------------------------------------------------------------------------|------------------------------------|------|
+| **Task-Tracker** | A simple task tracking system written in C#. Libraries and modules are used. | C# | [🔗 View](https://github.com/MuradIsazade777/Task-Tracker) |
+| **Task-Tracker-API** | A container-based task management API built with Go (Gin), PostgreSQL and Docker | Go, Gin, PostgreSQL, Docker | [🔗 View](https://github.com/MuradIsazade777/Task-Tracker-API) |
+| **2048-Tkinter-Game** | A 2048 game written in Python and Tkinter. Enriched with sound, animation and game logic. | Python, Tkinter | [🔗 View](https://github.com/MuradIsazade777/2048-Tkinter-Game) |
+| **Memory-Game** | A memory game written in JavaScript. Simple and effective with animation and game logic. | JavaScript | [🔗 View](https://github.com/MuradIsazade777/Memory-Game) |
+| **Snake-Game** | A classic Snake game written in JavaScript. Visualized with Canvas and CSS. | JavaScript, Canvas, CSS | [🔗 View](https://github.com/MuradIsazade777/Snake-Game) |
+| **Galaxy-Tycoon** | A space simulation game built with JavaScript and Canvas. Dynamic visuals and modular code structure | JavaScript, HTML5, SCSS, Canvas | [🔗 View](https://github.com/MuradIsazade777/Galaxy-Tycoon) |
+| **Notepad** | A simple notepad application written in Python and Tkinter. Editing, copying and formatting functions | Python, Tkinter | [🔗 View](https://github.com/MuradIsazade777/Notepad) |
+| **NoteNest** | RESTful API backend written in Flask. Stores notes in JSON file, CRUD operations available. | Python, Flask, JSON | [🔗 View](https://github.com/MuradIsazade777/NoteNest) |
+| **Task-Manager-CLI** | Terminal-based task manager written in TypeScript. Add, delete, list and complete functions | TypeScript, Node.js | [🔗 View](https://github.com/MuradIsazade777/Task-Manager-CLI) |
+| **CodeQuest-TS** | Game written in TypeScript. Works with JSON-server and modules. | TypeScript, Node.js, JSON-server | [🔗 View](https://github.com/MuradIsazade777/CodeQuest-TS) |
+| **LoreGenerator** | Lore generator written in Java. Generates random texts for SkillSync and other platforms. | Java, API, Modules | [🔗 View](https://github.com/MuradIsazade777/LoreGenerator) |
+| **QuizFusion** | Quiz engine written in Java. Loads questions from JSON bank, analyzes results with Python. | Java, JSON, Python | [🔗 View](https://github.com/MuradIsazade777/QuizFusion) |
+| **Github-Profile-app** | GitHub profile search application built with HTML, SCSS and JS. Rich with animation and real-time data | HTML, SCSS, JS, API | [🔗 View](https://github.com/MuradIsazade777/Github-Profile-app) |
+| **SnapCart** | E-commerce backend built with Laravel and Docker. Cyber ​​branding and scalability focused. | PHP, Laravel, Docker, MySQL | [🔗 View](https://github.com/MuradIsazade777/SnapCart) |
+| **PulseTrack** | Real-time fitness tracking API written in ASP.NET Core. Suitable for mobile and wearable devices. | C#, ASP.NET Core, API | [🔗 View](https://github.com/MuradIsazade777/PulseTrack) |
 
 
 ## 📬 Contact
