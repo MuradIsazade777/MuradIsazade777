@@ -49,8 +49,6 @@ When I'm not coding, I enjoy:
 
 ## 🚀 Pinned Projects
 
-> 🧬 *"Each repo is a pulse in the system. These are the engines behind the cyber."*
-
 | Project | Description | Tech Stack | Demo |
 |--------------------|------------------------------------------------------------------------------------|------------------------------------|------|
 | **Task-Tracker** | A simple task tracking system written in C#. Libraries and modules are used. | C# | [🔗 View](https://github.com/MuradIsazade777/Task-Tracker) |
