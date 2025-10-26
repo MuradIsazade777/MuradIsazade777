@@ -89,7 +89,7 @@ Reach out or follow me on these platforms:
 
 <p align="center">
   
-  ![Murad's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MuradIsazade777&theme=github-compact)
+  ![Murad's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MuradIsazade777&theme=react-dark)
   ![Murad's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuradIsazade777\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuradIsazade777&layout=compact&theme=github_dark&hide=none&langs_count=10" width="600" />
   [![GitHub Streak](https://streak-stats.demolab.com/?user=MuradIsazade777&theme=cyber-streakglow)](https://git.io/streak-stats)
