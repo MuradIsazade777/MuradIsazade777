@@ -69,6 +69,7 @@ When I'm not coding, I enjoy:
 | **SnapCart** | E-commerce backend built with Laravel and Docker. Cyber ​​branding and scalability focused. | PHP, Laravel, Docker, MySQL | [🔗 View](https://github.com/MuradIsazade777/SnapCart) |
 | **PulseTrack** | Real-time fitness tracking API written in ASP.NET Core. Suitable for mobile and wearable devices. | C#, ASP.NET Core, API | [🔗 View](https://github.com/MuradIsazade777/PulseTrack) |
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="2000">
 
 ## 📬 Contact
 
@@ -82,6 +83,8 @@ Reach out or follow me on these platforms:
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuradIsazade777)
 [![Monkeytype](https://img.shields.io/badge/Monkeytype-Speed%20Practice-FF69B4?style=for-the-badge)](https://monkeytype.com/account)
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="2000">
+
 ##  GitHub Stats
 
 <p align="center">
@@ -90,9 +93,11 @@ Reach out or follow me on these platforms:
   <img src="https://github-readme-stats.vercel.app/api?username=MuradIsazade777&show_icons=true&theme=radical" width="700" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuradIsazade777&layout=compact&theme=github_dark&hide=none&langs_count=10" width="500" />
  [![GitHub Streak](https://streak-stats.demolab.com?user=MuradIsazade777&theme=dark&hide_border=true)](https://git.io/streak-stats)
- [![Trophies](https://github-profile-trophy.vercel.app/?username=MuradIsazade777&theme=darkhub&margin-w=15&margin-h=15&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+ [![Trophy](https://github-profile-trophy.vercel.app/?username=MuradIsazade777&theme=aura)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
 
 <p align="center">
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="100%" />
 </p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="2000">
