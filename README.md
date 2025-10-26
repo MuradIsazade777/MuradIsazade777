@@ -91,7 +91,7 @@ Reach out or follow me on these platforms:
   
   ![Murad's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MuradIsazade777&theme=github-compact)
   ![Murad's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuradIsazade777\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuradIsazade777&layout=compact&theme=github_dark&hide=none&langs_count=10" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuradIsazade777&layout=compact&theme=github_dark&hide=none&langs_count=10" width="600" />
   [![GitHub Streak](https://streak-stats.demolab.com/?user=MuradIsazade777&theme=cyber-streakglow)](https://git.io/streak-stats)
  [![Trophy](https://github-profile-trophy.vercel.app/?username=MuradIsazade777&theme=aura)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
