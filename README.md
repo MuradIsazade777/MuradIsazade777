@@ -82,7 +82,7 @@ Reach out or follow me on these platforms:
 [![Monkeytype](https://img.shields.io/badge/Monkeytype-Speed%20Practice-FF69B4?style=for-the-badge)](https://monkeytype.com/account)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="2000">
-
+ 
 ## ⚡ GitHub Stats
 
 <p align="center">
