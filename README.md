@@ -1,5 +1,5 @@
 # 👨‍💻 Murad's GitHub Profile 
-
+ 
 <p align="center">  
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C0FF&width=600&lines=Hi%2C+I'm+Murad;I'm+a+Full-stack+Developer;Cybersecurity+Enthusiast" alt="Typing SVG" />
 </p>
