@@ -78,6 +78,7 @@ Reach out or follow me on these platforms:
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/cJv9YK5M)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muradisazde019@gmail.com)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/muradisazde)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/muradisazde019)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuradIsazade777)
 [![Monkeytype](https://img.shields.io/badge/Monkeytype-Speed%20Practice-FF69B4?style=for-the-badge)](https://monkeytype.com/account)
 
